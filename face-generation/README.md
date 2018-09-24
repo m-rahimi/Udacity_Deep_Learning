@@ -1,1 +1,2 @@
-# Face generation by using Generative Adversarial Networks
+# Face generation 
+generate face by using Generative Adversarial Networks
